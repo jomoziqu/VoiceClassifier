@@ -11,6 +11,7 @@ sklearn
 
 ## Installation
 -Clone this repository
+
 -Install the required dependencies using pip install -r requirements.txt
 
 ## Usage
