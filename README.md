@@ -1,6 +1,11 @@
 # Voice Classifier
 This project is based on a Machine Learning model that classifies the gender of voices as either human male, human female, robot male, or robot female. The model is trained using Deep Neural Networks on extracted audio features such as MFCCs, pitch, and formants.
 
+## Flowchart
+
+
+![VRS](https://github.com/jomoziqu/VoiceClassifier/assets/67217808/05ee063e-4f70-4695-841d-5f0435759a81)
+
 ## System Requirements
 
 Python
